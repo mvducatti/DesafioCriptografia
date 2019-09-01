@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "EncryptionChallenge/1.0.0": {
+        "dependencies": {
+          "SimpleJWT": "1.1.0"
+        },
+        "runtime": {
+          "EncryptionChallenge.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "SimpleJWT/1.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard1.4/SimpleJWT.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EncryptionChallenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "SimpleJWT/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zPtVkf8k27hP9xAJfYUzpO+Q/9lABXH0S2RBtGz4nM/Jd/2f9hQfGH8f+yPk9XEJHdZJHrvjDBuL05etAd6kbA==",
+      "path": "simplejwt/1.1.0",
+      "hashPath": "simplejwt.1.1.0.nupkg.sha512"
+    }
+  }
+}

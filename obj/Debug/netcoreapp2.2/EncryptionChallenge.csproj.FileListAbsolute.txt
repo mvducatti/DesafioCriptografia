@@ -1,0 +1,11 @@
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\bin\Debug\netcoreapp2.2\EncryptionChallenge.deps.json
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\bin\Debug\netcoreapp2.2\EncryptionChallenge.runtimeconfig.json
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\bin\Debug\netcoreapp2.2\EncryptionChallenge.runtimeconfig.dev.json
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\bin\Debug\netcoreapp2.2\EncryptionChallenge.dll
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\bin\Debug\netcoreapp2.2\EncryptionChallenge.pdb
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\obj\Debug\netcoreapp2.2\EncryptionChallenge.csprojAssemblyReference.cache
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\obj\Debug\netcoreapp2.2\EncryptionChallenge.csproj.CoreCompileInputs.cache
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\obj\Debug\netcoreapp2.2\EncryptionChallenge.AssemblyInfoInputs.cache
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\obj\Debug\netcoreapp2.2\EncryptionChallenge.AssemblyInfo.cs
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\obj\Debug\netcoreapp2.2\EncryptionChallenge.dll
+C:\Users\marcos.ducatti\source\repos\EncryptionChallenge\EncryptionChallenge\obj\Debug\netcoreapp2.2\EncryptionChallenge.pdb
